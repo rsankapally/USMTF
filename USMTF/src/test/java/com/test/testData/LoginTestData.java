@@ -1,0 +1,11 @@
+package com.test.testData;
+
+public class LoginTestData {
+
+	public static String LOGIN_DETAILS = "";
+	public static String JOURNEY_ID = "";
+	public static String TEST_DESCRIPTION = "";
+	public static String USERNAME = "";
+	public static String PASSWORD = "";
+	
+}
